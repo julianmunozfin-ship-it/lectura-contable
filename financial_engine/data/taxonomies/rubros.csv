@@ -1,0 +1,73 @@
+rubro,descripcion,estado,familia,linea_esf,corriente,categoria_niif18,linea_er_g1,linea_er_pymes,signo,linea_flujo,categoria_flujo,linea_flujo_contra,no_niif
+A_EFECTIVO,Efectivo y equivalentes al efectivo,ESF,1,Efectivo y equivalentes al efectivo,C,,,,1,Efectivo,Efectivo,,No
+A_OPER_MM,Operaciones del mercado monetario (activo),ESF,1,Operaciones del mercado monetario y relacionadas,C,,,,1,Operaciones del mercado monetario (activo),Inversión,,No
+A_INV_VR,Inversiones a valor razonable,ESF,1,Inversiones a valor razonable,C,,,,1,Inversiones a valor razonable (compras netas de ventas),Inversión,,No
+A_INV_CA,Inversiones a costo amortizado,ESF,1,Inversiones a costo amortizado,NC,,,,1,Inversiones a costo amortizado,Inversión,,No
+A_INV_SUBS,"Inversiones en subsidiarias, asociadas y negocios conjuntos",ESF,1,"Inversiones en subsidiarias, asociadas y negocios conjuntos",NC,,,,1,"Inversiones en subsidiarias, asociadas y negocios conjuntos",Inversión,,No
+A_DERIVADOS,Instrumentos financieros derivados (activo),ESF,1,Instrumentos financieros derivados,C,,,,1,Instrumentos financieros derivados (activo),Inversión,,No
+A_CARTERA,Cartera de créditos,ESF,1,Cartera de créditos,C,,,,1,(Aumento) disminución de cartera de créditos,Operación,,No
+A_CXC,Cuentas por cobrar comerciales y otras,ESF,1,Cuentas por cobrar comerciales y otras cuentas por cobrar,C,,,,1,(Aumento) disminución de cuentas por cobrar,Operación,,No
+A_IMP_CORR,Activos por impuestos corrientes,ESF,1,Activos por impuestos corrientes,C,,,,1,(Aumento) disminución de activos por impuestos corrientes,Operación,,No
+A_INVENTARIOS,Inventarios,ESF,1,Inventarios,C,,,,1,(Aumento) disminución de inventarios,Operación,,No
+A_ANTICIPADOS,Gastos pagados por anticipado,ESF,1,Gastos pagados por anticipado,C,,,,1,(Aumento) disminución de gastos pagados por anticipado,Operación,,No
+A_BIOLOGICOS,Activos biológicos,ESF,1,Activos biológicos,NC,,,,1,Adquisición de activos biológicos,Inversión,,No
+A_MANT_VENTA,Activos no corrientes mantenidos para la venta,ESF,1,Activos no corrientes mantenidos para la venta,C,,,,1,Activos no corrientes mantenidos para la venta,Inversión,,No
+A_PPE,"Propiedades, planta y equipo",ESF,1,"Propiedades, planta y equipo",NC,,,,1,"Adquisición y venta de propiedades, planta y equipo",Inversión,,No
+A_PROP_INV,Propiedades de inversión,ESF,1,Propiedades de inversión,NC,,,,1,Adquisición y venta de propiedades de inversión,Inversión,,No
+A_INTANGIBLES,Activos intangibles y plusvalía,ESF,1,Activos intangibles y plusvalía,NC,,,,1,Adquisición de activos intangibles,Inversión,,No
+A_IMP_DIF,Activos por impuesto diferido,ESF,1,Activos por impuesto diferido,NC,,,,1,(Aumento) disminución de impuesto diferido activo,Operación,,No
+A_OTROS,Otros activos,ESF,1,Otros activos,NC,,,,1,(Aumento) disminución de otros activos,Operación,,No
+A_VALORIZACIONES,"Valorizaciones (PCGA anteriores, no NIIF)",ESF,1,Valorizaciones (no NIIF),NC,,,,1,Valorizaciones (no NIIF),Inversión,,Sí
+P_DEPOSITOS,Depósitos y exigibilidades,ESF,2,Depósitos y exigibilidades,C,,,,1,Aumento (disminución) de depósitos,Operación,,No
+P_OBLIG_FIN,Obligaciones financieras,ESF,2,Obligaciones financieras,C,,,,1,"Préstamos recibidos (pagados), neto",Financiación,,No
+P_OPER_MM,Operaciones del mercado monetario (pasivo),ESF,2,Operaciones del mercado monetario (pasivo),C,,,,1,Operaciones del mercado monetario (pasivo),Financiación,,No
+P_DERIVADOS,Instrumentos financieros derivados (pasivo),ESF,2,Instrumentos financieros derivados (pasivo),C,,,,1,Instrumentos financieros derivados (pasivo),Financiación,,No
+P_BONOS,Títulos de inversión en circulación (bonos),ESF,2,Bonos y títulos en circulación,NC,,,,1,Emisión (redención) de bonos,Financiación,,No
+P_ARREND,Pasivos por arrendamientos,ESF,2,Pasivos por arrendamientos,NC,,,,1,Pagos de pasivos por arrendamientos,Financiación,,No
+P_CXP,Cuentas por pagar comerciales y otras,ESF,2,Cuentas por pagar comerciales y otras cuentas por pagar,C,,,,1,Aumento (disminución) de cuentas por pagar,Operación,,No
+P_IMP_CORR,Pasivos por impuestos corrientes,ESF,2,Pasivos por impuestos corrientes,C,,,,1,Aumento (disminución) de pasivos por impuestos,Operación,,No
+P_DIVIDENDOS,Dividendos por pagar,ESF,2,Dividendos por pagar,C,,,,1,Dividendos pagados,Financiación,,No
+P_BENEF_EMPL,Beneficios a los empleados,ESF,2,Beneficios a los empleados,C,,,,1,Aumento (disminución) de beneficios a empleados,Operación,,No
+P_PROVISIONES,Provisiones,ESF,2,Provisiones,C,,,,1,Aumento (disminución) de provisiones,Operación,,No
+P_ANTICIPOS,Anticipos y avances recibidos,ESF,2,Anticipos y avances recibidos,C,,,,1,Aumento (disminución) de anticipos recibidos,Operación,,No
+P_IMP_DIF,Pasivos por impuesto diferido,ESF,2,Pasivos por impuesto diferido,NC,,,,1,Aumento (disminución) de impuesto diferido pasivo,Operación,,No
+P_FONDOS_SOC,Fondos sociales y mutuales,ESF,2,Fondos sociales y mutuales,C,,,,1,Aumento (disminución) de fondos sociales,Operación,,No
+P_OTROS,Otros pasivos,ESF,2,Otros pasivos,C,,,,1,Aumento (disminución) de otros pasivos,Operación,,No
+PT_CAPITAL,Capital social,ESF,3,Capital social,,,,,1,Aportes (reembolsos) de capital,Financiación,,No
+PT_PRIMA,Prima en colocación de acciones y superávit,ESF,3,Prima en colocación de acciones y superávit de capital,,,,,1,Prima en colocación de acciones,Financiación,,No
+PT_RESERVAS,Reservas y fondos patrimoniales,ESF,3,Reservas,,,,,1,Movimiento de reservas y resultados acumulados,Financiación,,No
+PT_ORI,Otro resultado integral acumulado,ESF,3,Otro resultado integral acumulado,,,,,1,Otro resultado integral,Inversión,,No
+PT_RESULT_ANT,Resultados de ejercicios anteriores,ESF,3,Resultados acumulados,,,,,1,Movimiento de reservas y resultados acumulados,Financiación,,No
+PT_CONVERGENCIA,Resultados acumulados por adopción de NIIF,ESF,3,Resultados acumulados por adopción de NIIF,,,,,1,Movimiento de reservas y resultados acumulados,Financiación,,No
+PT_RESULT_EJ,Resultado del ejercicio registrado en patrimonio,ESF,3,Resultado del ejercicio registrado en patrimonio,,,,,1,Movimiento de reservas y resultados acumulados,Financiación,,No
+PT_NO_CONTROL,Participaciones no controladoras,ESF,3,Participaciones no controladoras,,,,,1,Participaciones no controladoras,Financiación,,No
+PT_REVALORIZACION,Revalorización del patrimonio (no NIIF),ESF,3,Revalorización del patrimonio (no NIIF),,,,,1,Movimiento de reservas y resultados acumulados,Financiación,,Sí
+PT_VALORIZACIONES,Superávit por valorizaciones (no NIIF),ESF,3,Superávit por valorizaciones (no NIIF),,,,,1,Valorizaciones (no NIIF),Inversión,,Sí
+I_ORDINARIOS,Ingresos de actividades ordinarias,ER,4,,,Operación,Ingresos de actividades ordinarias,Ingresos de actividades ordinarias,1,,,,No
+I_OTROS,Otros ingresos de operación,ER,4,,,Operación,Otros ingresos de operación,Otros ingresos,1,,,,No
+I_VENTA_ACTIVOS,Utilidad en venta de activos,ER,4,,,Operación,Utilidad en venta de activos,Otros ingresos,1,Ajuste: (utilidad) pérdida en venta de activos,Operación,"Adquisición y venta de propiedades, planta y equipo",No
+I_AJUSTE_INFL,Ajustes por inflación (no NIIF),ER,4,,,Operación,Ajustes por inflación (no NIIF),Otros ingresos,1,,,,Sí
+I_FINANCIEROS,Intereses y rendimientos financieros,ER,4,,,Inversión,Ingresos por intereses y rendimientos financieros,Ingresos financieros,1,,,,No
+I_VALORACION_VR,Ganancia por valoración de inversiones a valor razonable,ER,4,,,Inversión,Ganancias por valoración de inversiones a valor razonable,Ingresos financieros,1,Ajuste: valoración de inversiones a valor razonable,Operación,Inversiones a valor razonable (compras netas de ventas),No
+I_GAN_INVERSIONES,Utilidad en venta de inversiones,ER,4,,,Inversión,Utilidad en venta de inversiones,Ingresos financieros,1,Ajuste: (utilidad) pérdida en venta de inversiones,Operación,Inversiones a valor razonable (compras netas de ventas),No
+I_DIVIDENDOS,Dividendos y participaciones recibidos,ER,4,,,Inversión,Dividendos y participaciones,Ingresos financieros,1,,,,No
+I_METODO_PART,Ingreso por método de participación,ER,4,,,Inversión,Participación en resultados de subsidiarias y asociadas,Participación en resultados de subsidiarias y asociadas,1,Ajuste: método de participación patrimonial,Operación,"Inversiones en subsidiarias, asociadas y negocios conjuntos",No
+I_ARRENDAMIENTOS,Ingresos por arrendamientos,ER,4,,,Inversión,Ingresos por arrendamientos,Otros ingresos,1,,,,No
+G_COSTO_VENTAS,Costo de ventas y de producción,ER,5,,,Operación,Costo de ventas y de prestación de servicios,Costo de ventas,-1,,,,No
+G_PERSONAL,Gastos por beneficios a los empleados,ER,5,,,Operación,Gastos por beneficios a los empleados,Gastos de administración,-1,,,,No
+G_HONORARIOS,"Honorarios, comisiones y gastos legales",ER,5,,,Operación,"Honorarios, comisiones y gastos legales",Gastos de administración,-1,,,,No
+G_IMPUESTOS,"Impuestos, tasas y contribuciones",ER,5,,,Operación,"Impuestos, tasas y contribuciones",Gastos de administración,-1,,,,No
+G_DEPRECIACION,Depreciación,ER,5,,,Operación,Depreciación,Gastos de administración,-1,Ajuste: depreciación,Operación,"Adquisición y venta de propiedades, planta y equipo",No
+G_AMORTIZACION,Amortización,ER,5,,,Operación,Amortización,Gastos de administración,-1,Ajuste: amortización,Operación,Adquisición de activos intangibles,No
+G_DETERIORO,Deterioro y provisiones,ER,5,,,Operación,Deterioro de cuentas por cobrar y otros activos,Gastos de administración,-1,Ajuste: deterioro,Operación,(Aumento) disminución de cuentas por cobrar,No
+G_ADMIN,Otros gastos de administración y operación,ER,5,,,Operación,Otros gastos de administración y operación,Gastos de administración,-1,,,,No
+G_VENTAS,Gastos de ventas y distribución,ER,5,,,Operación,Gastos de ventas y distribución,Gastos de distribución,-1,,,,No
+G_OTROS_OPER,Otros gastos de operación,ER,5,,,Operación,Otros gastos de operación,Otros gastos,-1,,,,No
+G_VENTA_ACTIVOS,Pérdida en venta y retiro de activos,ER,5,,,Operación,Pérdida en venta y retiro de activos,Otros gastos,-1,Ajuste: (utilidad) pérdida en venta de activos,Operación,"Adquisición y venta de propiedades, planta y equipo",No
+G_CIERRE,Cuenta de cierre de ganancias y pérdidas,ER,5,,,Operación,Cuenta de cierre de ganancias y pérdidas,Otros gastos,-1,,,,No
+G_VALORACION_VR,Pérdida por valoración de inversiones a valor razonable,ER,5,,,Inversión,Pérdidas por valoración de inversiones a valor razonable,Costos financieros,-1,Ajuste: valoración de inversiones a valor razonable,Operación,Inversiones a valor razonable (compras netas de ventas),No
+G_METODO_PART,Pérdida por método de participación,ER,5,,,Inversión,Participación en pérdidas de subsidiarias y asociadas,Participación en resultados de subsidiarias y asociadas,-1,Ajuste: método de participación patrimonial,Operación,"Inversiones en subsidiarias, asociadas y negocios conjuntos",No
+G_FINANCIEROS,Gastos financieros e intereses,ER,5,,,Financiación,Gastos por intereses y otros costos financieros,Costos financieros,-1,,,,No
+G_IMPUESTO_RENTA,Impuesto de renta y complementarios,ER,5,,,Impuesto a las ganancias,Gasto por impuesto a las ganancias,Gasto por impuesto a las ganancias,-1,,,,No
+G_DISCONTINUADAS,Resultado de operaciones discontinuadas,ER,5,,,Operaciones discontinuadas,Resultado de operaciones discontinuadas,Resultado de operaciones discontinuadas,-1,,,,No
+I_ORI,Otro resultado integral del periodo (registrado en ingresos),ORI,4,Otro resultado integral del periodo,,,Otro resultado integral del periodo,Otro resultado integral del periodo,1,Otro resultado integral,Inversión,,No

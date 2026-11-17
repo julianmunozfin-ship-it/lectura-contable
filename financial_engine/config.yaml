@@ -1,0 +1,21 @@
+# Configuración del motor de estados financieros
+# Los valores en blanco se preguntan en la terminal al ejecutar main.py.
+
+# Grupo normativo: 1 = NIIF plenas (Dec. 2784/2012, NIIF 18) · 2 = NIIF para las Pymes (Dec. 3022/2013)
+# Déjelo vacío para que el programa pregunte (y sugiera según el catálogo detectado).
+grupo:
+
+# Catálogo de cuentas del balance: auto | puc_2650 | cuif_solidario | cuif_financiero
+catalogo: auto
+
+# NIIF 18, párrafos 49 a 66: actividad principal especificada de la entidad
+#   ninguna      -> clasificación general
+#   inversion    -> la entidad invierte en activos como actividad principal (los rendimientos van a Operación)
+#   financiacion -> la entidad presta dinero a clientes como actividad principal (intereses van a Operación)
+actividad_principal: ninguna
+
+# Confianza mínima del modelo de Machine Learning. Por debajo, se pide validación humana.
+umbral_confianza: 0.85
+
+# Carpeta donde se guarda el Excel de salida
+carpeta_salida: data/output
